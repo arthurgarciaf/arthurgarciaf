@@ -25,6 +25,6 @@
 
   
  ## 🎯 Git Hub Stats
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurscr&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurscr&theme=github_dark) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurscr&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurgarciaf&theme=github_dark) |
 | :-: | :-: |
 </p>  
